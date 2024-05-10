@@ -1,0 +1,241 @@
+[
+    {
+        "SrNo": 1,
+        "TPAP": "Amazon Pay",
+        "icon": "amazon_pay.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@apl"},
+            {"Bank": "Yes Bank", "Handle": "@yapl"},
+            {"Bank": "RBL Bank", "Handle": "@rapl"}
+        ],
+        "LinksURL": "https://www.amazon.in/hz/contact-us/"
+    },
+    {
+        "SrNo": 2,
+        "TPAP": "Bajaj Finserv",
+        "icon": "bajaj_finserv.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@abfspay"}
+        ],
+        "LinksURL": "https://www.bajajfinserv.in/reach-us"
+    },
+    {
+        "SrNo": 3,
+        "TPAP": "Bajaj MARKETS (Finserv Markets)",
+        "icon": "bajaj_markets.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@abfspay"}
+        ],
+        "LinksURL": "https://www.bajajfinservmarkets.in/contact-us.html"
+    },
+    {
+        "SrNo": 4,
+        "TPAP": "CRED",
+        "icon": "cred.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@axisb"}
+        ],
+        "LinksURL": "Home > Profile > Support > Other Issues > CRED UPI"
+    },
+    {
+        "SrNo": 5,
+        "TPAP": "Fave (Pinelabs)",
+        "icon": "fave.png",
+        "PSPBanks": [
+            {"Bank": "IDFC FIRST Bank", "Handle": "@idfcbank"}
+        ],
+        "LinksURL": "https://www.myfave.in/contact"
+    },
+    {
+        "SrNo": 6,
+        "TPAP": "Flipkart UPI",
+        "icon": "flipkart_upi.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@fkaxis"}
+        ],
+        "LinksURL": "https://dl.flipkart.com/rv/fpg/upi"
+    },
+    {
+        "SrNo": 7,
+        "TPAP": "Goibibo",
+        "icon": "goibibo.png",
+        "PSPBanks": [
+            {"Bank": "ICICI bank", "Handle": "@icici"}
+        ],
+        "LinksURL": "https://support.goibibo.com/support/solutions/folders/12000008822"
+    },
+    {
+        "SrNo": 8,
+        "TPAP": "Google Pay",
+        "icon": "google_pay.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@okaxis"},
+            {"Bank": "HDFC Bank", "Handle": "@okhdfcbank"},
+            {"Bank": "ICICI", "Handle": "@okicici"},
+            {"Bank": "State Bank of India", "Handle": "@oksbi"}
+        ],
+        "LinksURL": "https://support.google.com/pay/india/answer/10084701#zippy=%2Clevel---complaints-registration%2Clevel---grievance-redressal"
+    },
+    {
+        "SrNo": 9,
+        "TPAP": "Groww",
+        "icon": "groww.png",
+        "PSPBanks": [
+            {"Bank": "Yes Bank", "Handle": "@yesg"}
+        ],
+        "LinksURL": "Home > Profile > Help & Support > Payments > Groww UPI"
+    },
+    {
+        "SrNo": 10,
+        "TPAP": "Jupiter Money",
+        "icon": "jupiter_money.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank Limited", "Handle": "@jupiteraxis"}
+        ],
+        "LinksURL": "https://jupiter.money/contact/"
+    },
+    {
+        "SrNo": 11,
+        "TPAP": "Kiwi",
+        "icon": "kiwi.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank Limited", "Handle": "@goaxb"}
+        ],
+        "LinksURL": "www.gokiwi.in"
+    },
+    {
+        "SrNo": 12,
+        "TPAP": "Make My Trip",
+        "icon": "make _my_trip.png",
+        "PSPBanks": [
+            {"Bank": "ICICI", "Handle": "@icici"}
+        ],
+        "LinksURL": "https://www.makemytrip.com/support/contact-us.php"
+    },
+    {
+        "SrNo": 13,
+        "TPAP": "MobiKwik",
+        "icon": "mobikwik.png",
+        "PSPBanks": [
+            {"Bank": "HDFC Bank", "Handle": "@ikwik"}
+        ],
+        "LinksURL": "https://www.mobikwik.com/contact"
+    },
+    {
+        "SrNo": 14,
+        "TPAP": "Navi",
+        "icon": "navi.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@naviaxis"}
+        ],
+        "LinksURL": "https://navi.com/"
+    },
+    {
+        "SrNo": 15,
+        "TPAP": "Niyo Global",
+        "icon": "",
+        "PSPBanks": [
+            {"Bank": "ICICI Bank", "Handle": "@niyoicici"}
+        ],
+        "LinksURL": "https://goniyo.com/contact-us/"
+    },
+    {
+        "SrNo": 16,
+        "TPAP": "Phonepe",
+        "icon": "phonepe.png",
+        "PSPBanks": [
+            {"Bank": "Yes Bank", "Handle": "@ybl"},
+            {"Bank": "ICICI Bank", "Handle": "@ibl"},
+            {"Bank": "Axis Bank", "Handle": "@axl"}
+        ],
+        "LinksURL": "https://www.phonepe.com/contact-us/"
+    },
+    {
+        "SrNo": 17,
+        "TPAP": "Samsung Pay",
+        "icon": "samsung_pay.png",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@pingpay"}
+        ],
+        "LinksURL": "https://www.samsung.com/in/support/email/"
+    },
+    {
+        "SrNo": 18,
+        "TPAP": "Shriram One",
+        "icon": "",
+        "PSPBanks": [
+            {"Bank": "HDFC Bank", "Handle": "@shriramhdfcbank"}
+        ],
+        "LinksURL": "https://www.shriramfinance.in/reach-us"
+    },
+    {
+        "SrNo": 19,
+        "TPAP": "slice",
+        "icon": "",
+        "PSPBanks": [
+            {"Bank": "Axis Bank", "Handle": "@sliceaxis"}
+        ],
+        "LinksURL": "https://www.sliceit.com/contact-us"
+    },
+    {
+        "SrNo": 20,
+        "TPAP": "TataNeu",
+        "icon": "",
+        "PSPBanks": [
+            {"Bank": "ICICI Bank", "Handle": "@tapicici"}
+        ],
+        "LinksURL": "Homepage > Top right corner Menu button > Legal > Terms & Conditions"
+    },
+    {
+        "SrNo": 21,
+        "TPAP": "Timepay",
+        "icon": "",
+        "PSPBanks": [
+            {"Bank": "The Cosmos Co-Operative Bank Ltd.", "Handle": "@timecosmos"}
+        ],
+        "LinksURL": "https://www.timepayonline.com/upi-terms-conditions.php?current=Terms-Conditions"
+    },
+    {
+        "SrNo": 22,
+        "TPAP": "Ultracash",
+        "icon": "",
+        "PSPBanks": [
+            {"Bank": "IDFC Bank", "Handle": "@idfcbank"}
+        ],
+        "LinksURL": "https://m.ultracash.com/help_us.html"
+    },
+    {
+        "SrNo": 23,
+        "TPAP": "WhatsApp*",
+        "icon": "",
+        "PSPBanks": [
+            {"Bank": "ICICI Bank", "Handle": "@waicici"},
+            {"Bank": "ICICI Bank", "Handle": "@icici"},
+            {"Bank": "Axis Bank", "Handle": "@waaxis"},
+            {"Bank": "HDFC Bank", "Handle": "@wahdfcbank"},
+            {"Bank": "State Bank of India", "Handle": "@wasbi"}
+        ],
+        "LinksURL": "http://www.whatsapp.com/contact/?lang=en"
+    },
+    {
+        "SrNo": 24,
+        "TPAP": "Aditya Birla Capital Digital",
+        "icon": "",
+        "PSPBanks": [
+            {"Bank": "ICICI Bank", "Handle": "@abcdicici"}
+        ],
+        "LinksURL": "https://www.adityabirlacapital.com/"
+    },
+    {
+        "SrNo": 25,
+        "TPAP": "Paytm",
+        "icon": "paytm.png",
+        "PSPBanks": [
+            {"Bank": "Yes Bank", "Handle": "@ptyes"},
+            {"Bank": "Axis Bank", "Handle": "@ptaxis"},
+            {"Bank": "HDFC Bank", "Handle": "@pthdfc"},
+            {"Bank": "SBI", "Handle": "@ptsbi"}
+        ],
+        "LinksURL": "https://paytm.com/"
+    }
+]
