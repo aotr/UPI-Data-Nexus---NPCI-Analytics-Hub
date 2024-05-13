@@ -106,7 +106,7 @@
     {
         "SrNo": 12,
         "TPAP": "Make My Trip",
-        "icon": "make _my_trip.png",
+        "icon": "make_my_trip.png",
         "PSPBanks": [
             {"Bank": "ICICI", "Handle": "@icici"}
         ],
