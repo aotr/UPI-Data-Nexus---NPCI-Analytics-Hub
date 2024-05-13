@@ -133,7 +133,7 @@
     {
         "SrNo": 15,
         "TPAP": "Niyo Global",
-        "icon": "",
+        "icon": "niyo_global.png",
         "PSPBanks": [
             {"Bank": "ICICI Bank", "Handle": "@niyoicici"}
         ],
@@ -162,7 +162,7 @@
     {
         "SrNo": 18,
         "TPAP": "Shriram One",
-        "icon": "",
+        "icon": "shriram_one.png",
         "PSPBanks": [
             {"Bank": "HDFC Bank", "Handle": "@shriramhdfcbank"}
         ],
@@ -180,7 +180,7 @@
     {
         "SrNo": 20,
         "TPAP": "TataNeu",
-        "icon": "",
+        "icon": "tata_neu.png",
         "PSPBanks": [
             {"Bank": "ICICI Bank", "Handle": "@tapicici"}
         ],
@@ -189,7 +189,7 @@
     {
         "SrNo": 21,
         "TPAP": "Timepay",
-        "icon": "",
+        "icon": "timepay.png",
         "PSPBanks": [
             {"Bank": "The Cosmos Co-Operative Bank Ltd.", "Handle": "@timecosmos"}
         ],
@@ -198,7 +198,7 @@
     {
         "SrNo": 22,
         "TPAP": "Ultracash",
-        "icon": "",
+        "icon": "ultracash.png",
         "PSPBanks": [
             {"Bank": "IDFC Bank", "Handle": "@idfcbank"}
         ],
@@ -207,7 +207,7 @@
     {
         "SrNo": 23,
         "TPAP": "WhatsApp*",
-        "icon": "",
+        "icon": "whats_app.png",
         "PSPBanks": [
             {"Bank": "ICICI Bank", "Handle": "@waicici"},
             {"Bank": "ICICI Bank", "Handle": "@icici"},
@@ -220,7 +220,7 @@
     {
         "SrNo": 24,
         "TPAP": "Aditya Birla Capital Digital",
-        "icon": "",
+        "icon": "aditya_birla_capital_digital.png",
         "PSPBanks": [
             {"Bank": "ICICI Bank", "Handle": "@abcdicici"}
         ],
